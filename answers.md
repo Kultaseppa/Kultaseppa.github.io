@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 ## Exercise 1
 Writing in Markdown is *not* that hard!
 
