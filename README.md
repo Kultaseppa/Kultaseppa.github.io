@@ -94,6 +94,8 @@ R Markdown is a variant of Markdown that is specifically designed for creating d
 [![Video title](https://upload.wikimedia.org/wikipedia/commons/4/43/Cute_dog.jpg)](https://www.youtube.com/watch?v=qAt1LQJnnTE)
 
 ## Exercise 4
+
+```Ruby
 public class Person
 {
   private string name;
@@ -113,3 +115,4 @@ public class Person
     this.age = this.age + 1;
   }
 }
+```
